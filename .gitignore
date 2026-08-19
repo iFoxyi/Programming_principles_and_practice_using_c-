@@ -1,0 +1,7 @@
+# Ignore compiled binaries (assuming you don't use extensions for them)
+*
+!*/
+!*.cpp
+!*.h
+!*.md
+!.gitignore

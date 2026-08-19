@@ -9,7 +9,7 @@ int main() {
   std::string friend_name = "";
   std::cout << "What's your friend name : " << std::endl;
   std::cin >> friend_name;
-  std::cout << "Have u seen " << friend_name << "lately" << std::endl;
+  std::cout << "Have u seen " << friend_name << " lately" << std::endl;
 
   return 0;
 }

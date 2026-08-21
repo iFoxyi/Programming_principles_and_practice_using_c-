@@ -1,7 +1,10 @@
+
+#include <algorithm>
 #include <iostream>
 
 int main() {
+
   int y = 'y';
-  std::cout << y << std::endl;
+  cout << y << std::endl;
   return 0;
 }
